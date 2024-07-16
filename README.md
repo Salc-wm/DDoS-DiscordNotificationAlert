@@ -43,6 +43,9 @@ Output
 
 - <sub> < processId > etc  0.0  0.0   etc  etc pts/1    S    TIME   0:00 bash discordalertsddos.sh </sub>
 
+To see result...
+`cat nohup.out`
+
 to finish
 ```kill <processId>```
 

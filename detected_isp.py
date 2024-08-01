@@ -16,7 +16,7 @@ PATH_DUMPS: str = '/root/dumps'
 THRESHOLD: int = 100  # Adjust this based on your specific needs
 
 # IP of the server where the script is located
-LOCALIP: str = '45.88.228.55'
+LOCALIP: str = '<IP>'
 
 # API used to do the localization
 IPAPIG: str = 'https://freegeoip.app/json/'

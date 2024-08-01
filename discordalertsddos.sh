@@ -3,7 +3,7 @@ echo "Init VPN DDoS Attack Alerts"
 echo  # Space
 
 # Variables
-interface=enp2s0
+interface="<interface>"
 dumpdir=/root/dumps
 
 ports=("80" "443" "22")

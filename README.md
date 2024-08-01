@@ -80,8 +80,8 @@ __*Create the file and move it to >>*__
 - ```systemctl daemon-reload```
 
    ```bash
-   systemctl start <any>
    systemctl enable <any>
+   systemctl start <any>
    ```
 
   - And

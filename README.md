@@ -64,7 +64,7 @@ Type=simple
 User=root
 
 WorkingDirectory=/root
-ExecStart=/bin/bash discordalertsddos.sh
+ExecStart=/bin/bash <script name>.sh
 
 Restart=always
 RestartSec=10
